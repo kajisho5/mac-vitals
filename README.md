@@ -1,2 +1,15 @@
-# mac-vitals
-Show temperatures and fan speeds on Mac.
+# mac-vitals（仮名）
+
+**温度・ファン表示**
+
+## 課題（Mac標準の不便）
+温度もファン回転数も標準では見えない。
+
+## 計画している機能
+- CPU/GPU温度の表示
+- ファン回転数の表示
+- メニューバー常駐と履歴
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
